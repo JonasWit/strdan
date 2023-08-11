@@ -1,0 +1,7 @@
+C:\Książka\Przykłady\r02\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe.config
+C:\Książka\Przykłady\r02\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe
+C:\Książka\Przykłady\r02\SortingAlgorithms\bin\Debug\SortingAlgorithms.pdb
+C:\Książka\Przykłady\r02\SortingAlgorithms\obj\Debug\SortingAlgorithms.csprojAssemblyReference.cache
+C:\Książka\Przykłady\r02\SortingAlgorithms\obj\Debug\SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Książka\Przykłady\r02\SortingAlgorithms\obj\Debug\SortingAlgorithms.exe
+C:\Książka\Przykłady\r02\SortingAlgorithms\obj\Debug\SortingAlgorithms.pdb

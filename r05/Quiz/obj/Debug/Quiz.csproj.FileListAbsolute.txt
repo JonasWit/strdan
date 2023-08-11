@@ -1,0 +1,7 @@
+C:\Książka\Przykłady\r05\Quiz\bin\Debug\Quiz.exe.config
+C:\Książka\Przykłady\r05\Quiz\bin\Debug\Quiz.exe
+C:\Książka\Przykłady\r05\Quiz\bin\Debug\Quiz.pdb
+C:\Książka\Przykłady\r05\Quiz\obj\Debug\Quiz.csprojAssemblyReference.cache
+C:\Książka\Przykłady\r05\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+C:\Książka\Przykłady\r05\Quiz\obj\Debug\Quiz.exe
+C:\Książka\Przykłady\r05\Quiz\obj\Debug\Quiz.pdb

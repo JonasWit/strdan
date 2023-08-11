@@ -1,0 +1,11 @@
+C:\Książka\Przykłady\r06\Graphs\bin\Debug\Graphs.exe.config
+C:\Książka\Przykłady\r06\Graphs\bin\Debug\Graphs.exe
+C:\Książka\Przykłady\r06\Graphs\bin\Debug\Graphs.pdb
+C:\Książka\Przykłady\r06\Graphs\bin\Debug\Priority Queue.dll
+C:\Książka\Przykłady\r06\Graphs\bin\Debug\Priority Queue.pdb
+C:\Książka\Przykłady\r06\Graphs\bin\Debug\Priority Queue.xml
+C:\Książka\Przykłady\r06\Graphs\obj\Debug\Graphs.csprojAssemblyReference.cache
+C:\Książka\Przykłady\r06\Graphs\obj\Debug\Graphs.csproj.CoreCompileInputs.cache
+C:\Książka\Przykłady\r06\Graphs\obj\Debug\Graphs.csproj.CopyComplete
+C:\Książka\Przykłady\r06\Graphs\obj\Debug\Graphs.exe
+C:\Książka\Przykłady\r06\Graphs\obj\Debug\Graphs.pdb

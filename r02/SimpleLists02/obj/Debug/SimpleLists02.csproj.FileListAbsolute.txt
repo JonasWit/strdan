@@ -1,0 +1,7 @@
+C:\Książka\Przykłady\r02\SimpleLists02\bin\Debug\SimpleLists02.exe.config
+C:\Książka\Przykłady\r02\SimpleLists02\bin\Debug\SimpleLists02.exe
+C:\Książka\Przykłady\r02\SimpleLists02\bin\Debug\SimpleLists02.pdb
+C:\Książka\Przykłady\r02\SimpleLists02\obj\Debug\SimpleLists02.csproj.CoreCompileInputs.cache
+C:\Książka\Przykłady\r02\SimpleLists02\obj\Debug\SimpleLists02.exe
+C:\Książka\Przykłady\r02\SimpleLists02\obj\Debug\SimpleLists02.pdb
+C:\Książka\Przykłady\r02\SimpleLists02\obj\Debug\SimpleLists02.csprojAssemblyReference.cache

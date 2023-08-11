@@ -1,0 +1,6 @@
+C:\Książka\Przykłady\r02\SortedLists\bin\Debug\SortedLists.exe.config
+C:\Książka\Przykłady\r02\SortedLists\bin\Debug\SortedLists.exe
+C:\Książka\Przykłady\r02\SortedLists\bin\Debug\SortedLists.pdb
+C:\Książka\Przykłady\r02\SortedLists\obj\Debug\SortedLists.csproj.CoreCompileInputs.cache
+C:\Książka\Przykłady\r02\SortedLists\obj\Debug\SortedLists.exe
+C:\Książka\Przykłady\r02\SortedLists\obj\Debug\SortedLists.pdb

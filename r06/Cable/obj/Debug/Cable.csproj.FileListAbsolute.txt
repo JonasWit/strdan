@@ -1,0 +1,14 @@
+C:\Książka\Przykłady\r06\Cable\bin\Debug\Cable.exe.config
+C:\Książka\Przykłady\r06\Cable\bin\Debug\Cable.exe
+C:\Książka\Przykłady\r06\Cable\bin\Debug\Cable.pdb
+C:\Książka\Przykłady\r06\Cable\bin\Debug\Graphs.exe
+C:\Książka\Przykłady\r06\Cable\bin\Debug\Priority Queue.dll
+C:\Książka\Przykłady\r06\Cable\bin\Debug\Graphs.pdb
+C:\Książka\Przykłady\r06\Cable\bin\Debug\Graphs.exe.config
+C:\Książka\Przykłady\r06\Cable\bin\Debug\Priority Queue.pdb
+C:\Książka\Przykłady\r06\Cable\bin\Debug\Priority Queue.xml
+C:\Książka\Przykłady\r06\Cable\obj\Debug\Cable.csprojAssemblyReference.cache
+C:\Książka\Przykłady\r06\Cable\obj\Debug\Cable.csproj.CoreCompileInputs.cache
+C:\Książka\Przykłady\r06\Cable\obj\Debug\Cable.csproj.CopyComplete
+C:\Książka\Przykłady\r06\Cable\obj\Debug\Cable.exe
+C:\Książka\Przykłady\r06\Cable\obj\Debug\Cable.pdb

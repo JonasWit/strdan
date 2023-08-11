@@ -1,0 +1,6 @@
+C:\Książka\Przykłady\r04\DictionaryDefinitions\bin\Debug\DictionaryDefinitions.exe.config
+C:\Książka\Przykłady\r04\DictionaryDefinitions\bin\Debug\DictionaryDefinitions.exe
+C:\Książka\Przykłady\r04\DictionaryDefinitions\bin\Debug\DictionaryDefinitions.pdb
+C:\Książka\Przykłady\r04\DictionaryDefinitions\obj\Debug\DictionaryDefinitions.csproj.CoreCompileInputs.cache
+C:\Książka\Przykłady\r04\DictionaryDefinitions\obj\Debug\DictionaryDefinitions.exe
+C:\Książka\Przykłady\r04\DictionaryDefinitions\obj\Debug\DictionaryDefinitions.pdb

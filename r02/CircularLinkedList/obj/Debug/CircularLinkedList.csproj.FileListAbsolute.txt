@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\B09540_02_CODES\Chapter02\Chapter02\CircularLinkedList\bin\Debug\CircularLinkedList.exe.config
+C:\Users\admin\Desktop\B09540_02_CODES\Chapter02\Chapter02\CircularLinkedList\bin\Debug\CircularLinkedList.exe
+C:\Users\admin\Desktop\B09540_02_CODES\Chapter02\Chapter02\CircularLinkedList\bin\Debug\CircularLinkedList.pdb
+C:\Users\admin\Desktop\B09540_02_CODES\Chapter02\Chapter02\CircularLinkedList\obj\Debug\CircularLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\B09540_02_CODES\Chapter02\Chapter02\CircularLinkedList\obj\Debug\CircularLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\B09540_02_CODES\Chapter02\Chapter02\CircularLinkedList\obj\Debug\CircularLinkedList.exe
+C:\Users\admin\Desktop\B09540_02_CODES\Chapter02\Chapter02\CircularLinkedList\obj\Debug\CircularLinkedList.pdb
+C:\Książka\Przykłady\r02\CircularLinkedList\bin\Debug\CircularLinkedList.exe.config
+C:\Książka\Przykłady\r02\CircularLinkedList\bin\Debug\CircularLinkedList.exe
+C:\Książka\Przykłady\r02\CircularLinkedList\bin\Debug\CircularLinkedList.pdb
+C:\Książka\Przykłady\r02\CircularLinkedList\obj\Debug\CircularLinkedList.csproj.CoreCompileInputs.cache
+C:\Książka\Przykłady\r02\CircularLinkedList\obj\Debug\CircularLinkedList.exe
+C:\Książka\Przykłady\r02\CircularLinkedList\obj\Debug\CircularLinkedList.pdb

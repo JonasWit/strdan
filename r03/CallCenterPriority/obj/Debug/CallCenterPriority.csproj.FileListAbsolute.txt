@@ -1,0 +1,11 @@
+C:\Książka\Przykłady\r03\CallCenterPriority\bin\Debug\CallCenterPriority.exe.config
+C:\Książka\Przykłady\r03\CallCenterPriority\bin\Debug\CallCenterPriority.exe
+C:\Książka\Przykłady\r03\CallCenterPriority\bin\Debug\CallCenterPriority.pdb
+C:\Książka\Przykłady\r03\CallCenterPriority\bin\Debug\Priority Queue.dll
+C:\Książka\Przykłady\r03\CallCenterPriority\bin\Debug\Priority Queue.pdb
+C:\Książka\Przykłady\r03\CallCenterPriority\bin\Debug\Priority Queue.xml
+C:\Książka\Przykłady\r03\CallCenterPriority\obj\Debug\CallCenterPriority.csprojAssemblyReference.cache
+C:\Książka\Przykłady\r03\CallCenterPriority\obj\Debug\CallCenterPriority.csproj.CoreCompileInputs.cache
+C:\Książka\Przykłady\r03\CallCenterPriority\obj\Debug\CallCenterPriority.csproj.CopyComplete
+C:\Książka\Przykłady\r03\CallCenterPriority\obj\Debug\CallCenterPriority.exe
+C:\Książka\Przykłady\r03\CallCenterPriority\obj\Debug\CallCenterPriority.pdb

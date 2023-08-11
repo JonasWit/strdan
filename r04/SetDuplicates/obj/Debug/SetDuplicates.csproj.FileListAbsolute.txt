@@ -1,0 +1,7 @@
+C:\Książka\Przykłady\r04\SetDuplicates\bin\Debug\SetDuplicates.exe.config
+C:\Książka\Przykłady\r04\SetDuplicates\bin\Debug\SetDuplicates.exe
+C:\Książka\Przykłady\r04\SetDuplicates\bin\Debug\SetDuplicates.pdb
+C:\Książka\Przykłady\r04\SetDuplicates\obj\Debug\SetDuplicates.csproj.CoreCompileInputs.cache
+C:\Książka\Przykłady\r04\SetDuplicates\obj\Debug\SetDuplicates.exe
+C:\Książka\Przykłady\r04\SetDuplicates\obj\Debug\SetDuplicates.pdb
+C:\Książka\Przykłady\r04\SetDuplicates\obj\Debug\SetDuplicates.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Książka\Przykłady\r04\DictionaryProductLocation\bin\Debug\DictionaryProductLocation.exe.config
+C:\Książka\Przykłady\r04\DictionaryProductLocation\bin\Debug\DictionaryProductLocation.exe
+C:\Książka\Przykłady\r04\DictionaryProductLocation\bin\Debug\DictionaryProductLocation.pdb
+C:\Książka\Przykłady\r04\DictionaryProductLocation\obj\Debug\DictionaryProductLocation.csprojAssemblyReference.cache
+C:\Książka\Przykłady\r04\DictionaryProductLocation\obj\Debug\DictionaryProductLocation.csproj.CoreCompileInputs.cache
+C:\Książka\Przykłady\r04\DictionaryProductLocation\obj\Debug\DictionaryProductLocation.exe
+C:\Książka\Przykłady\r04\DictionaryProductLocation\obj\Debug\DictionaryProductLocation.pdb

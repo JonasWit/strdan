@@ -1,0 +1,7 @@
+C:\Książka\Przykłady\r03\CallCenterMany\bin\Debug\CallCenterMany.exe.config
+C:\Książka\Przykłady\r03\CallCenterMany\bin\Debug\CallCenterMany.exe
+C:\Książka\Przykłady\r03\CallCenterMany\bin\Debug\CallCenterMany.pdb
+C:\Książka\Przykłady\r03\CallCenterMany\obj\Debug\CallCenterMany.csproj.CoreCompileInputs.cache
+C:\Książka\Przykłady\r03\CallCenterMany\obj\Debug\CallCenterMany.exe
+C:\Książka\Przykłady\r03\CallCenterMany\obj\Debug\CallCenterMany.pdb
+C:\Książka\Przykłady\r03\CallCenterMany\obj\Debug\CallCenterMany.csprojAssemblyReference.cache

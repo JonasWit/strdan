@@ -1,0 +1,14 @@
+C:\Książka\Przykłady\r06\GameMap\bin\Debug\GameMap.exe.config
+C:\Książka\Przykłady\r06\GameMap\bin\Debug\GameMap.exe
+C:\Książka\Przykłady\r06\GameMap\bin\Debug\GameMap.pdb
+C:\Książka\Przykłady\r06\GameMap\bin\Debug\Graphs.exe
+C:\Książka\Przykłady\r06\GameMap\bin\Debug\Priority Queue.dll
+C:\Książka\Przykłady\r06\GameMap\bin\Debug\Graphs.pdb
+C:\Książka\Przykłady\r06\GameMap\bin\Debug\Graphs.exe.config
+C:\Książka\Przykłady\r06\GameMap\bin\Debug\Priority Queue.pdb
+C:\Książka\Przykłady\r06\GameMap\bin\Debug\Priority Queue.xml
+C:\Książka\Przykłady\r06\GameMap\obj\Debug\GameMap.csprojAssemblyReference.cache
+C:\Książka\Przykłady\r06\GameMap\obj\Debug\GameMap.csproj.CoreCompileInputs.cache
+C:\Książka\Przykłady\r06\GameMap\obj\Debug\GameMap.csproj.CopyComplete
+C:\Książka\Przykłady\r06\GameMap\obj\Debug\GameMap.exe
+C:\Książka\Przykłady\r06\GameMap\obj\Debug\GameMap.pdb

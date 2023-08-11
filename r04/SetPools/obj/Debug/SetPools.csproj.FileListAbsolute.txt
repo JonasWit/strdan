@@ -1,0 +1,6 @@
+C:\Książka\Przykłady\r04\SetPools\bin\Debug\SetPools.exe.config
+C:\Książka\Przykłady\r04\SetPools\bin\Debug\SetPools.exe
+C:\Książka\Przykłady\r04\SetPools\bin\Debug\SetPools.pdb
+C:\Książka\Przykłady\r04\SetPools\obj\Debug\SetPools.csproj.CoreCompileInputs.cache
+C:\Książka\Przykłady\r04\SetPools\obj\Debug\SetPools.exe
+C:\Książka\Przykłady\r04\SetPools\obj\Debug\SetPools.pdb

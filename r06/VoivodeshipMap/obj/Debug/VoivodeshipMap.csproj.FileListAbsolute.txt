@@ -1,0 +1,14 @@
+C:\Książka\Przykłady\r06\VoivodeshipMap\bin\Debug\VoivodeshipMap.exe.config
+C:\Książka\Przykłady\r06\VoivodeshipMap\bin\Debug\VoivodeshipMap.exe
+C:\Książka\Przykłady\r06\VoivodeshipMap\bin\Debug\VoivodeshipMap.pdb
+C:\Książka\Przykłady\r06\VoivodeshipMap\bin\Debug\Graphs.exe
+C:\Książka\Przykłady\r06\VoivodeshipMap\bin\Debug\Priority Queue.dll
+C:\Książka\Przykłady\r06\VoivodeshipMap\bin\Debug\Graphs.pdb
+C:\Książka\Przykłady\r06\VoivodeshipMap\bin\Debug\Graphs.exe.config
+C:\Książka\Przykłady\r06\VoivodeshipMap\bin\Debug\Priority Queue.pdb
+C:\Książka\Przykłady\r06\VoivodeshipMap\bin\Debug\Priority Queue.xml
+C:\Książka\Przykłady\r06\VoivodeshipMap\obj\Debug\VoivodeshipMap.csprojAssemblyReference.cache
+C:\Książka\Przykłady\r06\VoivodeshipMap\obj\Debug\VoivodeshipMap.csproj.CoreCompileInputs.cache
+C:\Książka\Przykłady\r06\VoivodeshipMap\obj\Debug\VoivodeshipMap.csproj.CopyComplete
+C:\Książka\Przykłady\r06\VoivodeshipMap\obj\Debug\VoivodeshipMap.exe
+C:\Książka\Przykłady\r06\VoivodeshipMap\obj\Debug\VoivodeshipMap.pdb

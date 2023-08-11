@@ -1,0 +1,12 @@
+C:\Książka\Przykłady\r05\RedBlackTree\bin\Debug\RedBlackTree.exe.config
+C:\Książka\Przykłady\r05\RedBlackTree\bin\Debug\RedBlackTree.exe
+C:\Książka\Przykłady\r05\RedBlackTree\bin\Debug\RedBlackTree.pdb
+C:\Książka\Przykłady\r05\RedBlackTree\bin\Debug\TreeLib.dll
+C:\Książka\Przykłady\r05\RedBlackTree\bin\Debug\TreeLibInterface.dll
+C:\Książka\Przykłady\r05\RedBlackTree\bin\Debug\TreeLib.xml
+C:\Książka\Przykłady\r05\RedBlackTree\bin\Debug\TreeLibInterface.xml
+C:\Książka\Przykłady\r05\RedBlackTree\obj\Debug\RedBlackTree.csprojAssemblyReference.cache
+C:\Książka\Przykłady\r05\RedBlackTree\obj\Debug\RedBlackTree.csproj.CoreCompileInputs.cache
+C:\Książka\Przykłady\r05\RedBlackTree\obj\Debug\RedBlackTree.csproj.CopyComplete
+C:\Książka\Przykłady\r05\RedBlackTree\obj\Debug\RedBlackTree.exe
+C:\Książka\Przykłady\r05\RedBlackTree\obj\Debug\RedBlackTree.pdb

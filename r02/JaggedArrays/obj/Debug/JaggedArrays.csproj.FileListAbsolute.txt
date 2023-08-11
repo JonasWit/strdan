@@ -1,0 +1,7 @@
+C:\Książka\Przykłady\r02\JaggedArrays\obj\Debug\JaggedArrays.csprojAssemblyReference.cache
+C:\Książka\Przykłady\r02\JaggedArrays\obj\Debug\JaggedArrays.csproj.CoreCompileInputs.cache
+C:\Książka\Przykłady\r02\JaggedArrays\bin\Debug\JaggedArrays.exe.config
+C:\Książka\Przykłady\r02\JaggedArrays\bin\Debug\JaggedArrays.exe
+C:\Książka\Przykłady\r02\JaggedArrays\bin\Debug\JaggedArrays.pdb
+C:\Książka\Przykłady\r02\JaggedArrays\obj\Debug\JaggedArrays.exe
+C:\Książka\Przykłady\r02\JaggedArrays\obj\Debug\JaggedArrays.pdb

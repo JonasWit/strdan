@@ -1,0 +1,7 @@
+C:\Książka\Przykłady\r05\AVL\bin\Debug\AVL.exe.config
+C:\Książka\Przykłady\r05\AVL\bin\Debug\AVL.exe
+C:\Książka\Przykłady\r05\AVL\bin\Debug\AVL.pdb
+C:\Książka\Przykłady\r05\AVL\obj\Debug\AVL.csprojAssemblyReference.cache
+C:\Książka\Przykłady\r05\AVL\obj\Debug\AVL.csproj.CoreCompileInputs.cache
+C:\Książka\Przykłady\r05\AVL\obj\Debug\AVL.exe
+C:\Książka\Przykłady\r05\AVL\obj\Debug\AVL.pdb

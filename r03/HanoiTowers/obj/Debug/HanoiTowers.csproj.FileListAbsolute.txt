@@ -1,0 +1,7 @@
+C:\Książka\Przykłady\r03\HanoiTowers\bin\Debug\HanoiTowers.exe.config
+C:\Książka\Przykłady\r03\HanoiTowers\bin\Debug\HanoiTowers.exe
+C:\Książka\Przykłady\r03\HanoiTowers\bin\Debug\HanoiTowers.pdb
+C:\Książka\Przykłady\r03\HanoiTowers\obj\Debug\HanoiTowers.csprojAssemblyReference.cache
+C:\Książka\Przykłady\r03\HanoiTowers\obj\Debug\HanoiTowers.csproj.CoreCompileInputs.cache
+C:\Książka\Przykłady\r03\HanoiTowers\obj\Debug\HanoiTowers.exe
+C:\Książka\Przykłady\r03\HanoiTowers\obj\Debug\HanoiTowers.pdb

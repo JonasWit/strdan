@@ -1,0 +1,7 @@
+C:\Książka\Przykłady\r02\LinkedLists\bin\Debug\LinkedLists.exe.config
+C:\Książka\Przykłady\r02\LinkedLists\bin\Debug\LinkedLists.exe
+C:\Książka\Przykłady\r02\LinkedLists\bin\Debug\LinkedLists.pdb
+C:\Książka\Przykłady\r02\LinkedLists\obj\Debug\LinkedLists.csprojAssemblyReference.cache
+C:\Książka\Przykłady\r02\LinkedLists\obj\Debug\LinkedLists.csproj.CoreCompileInputs.cache
+C:\Książka\Przykłady\r02\LinkedLists\obj\Debug\LinkedLists.exe
+C:\Książka\Przykłady\r02\LinkedLists\obj\Debug\LinkedLists.pdb

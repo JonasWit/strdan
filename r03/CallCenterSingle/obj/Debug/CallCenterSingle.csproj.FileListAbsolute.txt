@@ -1,0 +1,7 @@
+C:\Książka\Przykłady\r03\CallCenterSingle\bin\Debug\CallCenterSingle.exe.config
+C:\Książka\Przykłady\r03\CallCenterSingle\bin\Debug\CallCenterSingle.exe
+C:\Książka\Przykłady\r03\CallCenterSingle\bin\Debug\CallCenterSingle.pdb
+C:\Książka\Przykłady\r03\CallCenterSingle\obj\Debug\CallCenterSingle.csprojAssemblyReference.cache
+C:\Książka\Przykłady\r03\CallCenterSingle\obj\Debug\CallCenterSingle.csproj.CoreCompileInputs.cache
+C:\Książka\Przykłady\r03\CallCenterSingle\obj\Debug\CallCenterSingle.exe
+C:\Książka\Przykłady\r03\CallCenterSingle\obj\Debug\CallCenterSingle.pdb

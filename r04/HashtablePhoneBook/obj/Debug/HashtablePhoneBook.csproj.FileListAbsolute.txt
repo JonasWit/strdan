@@ -1,0 +1,7 @@
+C:\Książka\Przykłady\r04\HashtablePhoneBook\bin\Debug\HashtablePhoneBook.exe.config
+C:\Książka\Przykłady\r04\HashtablePhoneBook\bin\Debug\HashtablePhoneBook.exe
+C:\Książka\Przykłady\r04\HashtablePhoneBook\bin\Debug\HashtablePhoneBook.pdb
+C:\Książka\Przykłady\r04\HashtablePhoneBook\obj\Debug\HashtablePhoneBook.csproj.CoreCompileInputs.cache
+C:\Książka\Przykłady\r04\HashtablePhoneBook\obj\Debug\HashtablePhoneBook.exe
+C:\Książka\Przykłady\r04\HashtablePhoneBook\obj\Debug\HashtablePhoneBook.pdb
+C:\Książka\Przykłady\r04\HashtablePhoneBook\obj\Debug\HashtablePhoneBook.csprojAssemblyReference.cache

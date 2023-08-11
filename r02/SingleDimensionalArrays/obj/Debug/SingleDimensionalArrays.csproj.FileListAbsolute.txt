@@ -1,0 +1,6 @@
+C:\Książka\Przykłady\r02\SingleDimensionalArrays\bin\Debug\SingleDimensionalArrays.exe.config
+C:\Książka\Przykłady\r02\SingleDimensionalArrays\bin\Debug\SingleDimensionalArrays.exe
+C:\Książka\Przykłady\r02\SingleDimensionalArrays\bin\Debug\SingleDimensionalArrays.pdb
+C:\Książka\Przykłady\r02\SingleDimensionalArrays\obj\Debug\SingleDimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Książka\Przykłady\r02\SingleDimensionalArrays\obj\Debug\SingleDimensionalArrays.exe
+C:\Książka\Przykłady\r02\SingleDimensionalArrays\obj\Debug\SingleDimensionalArrays.pdb

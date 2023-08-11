@@ -1,0 +1,6 @@
+C:\Książka\Przykłady\r04\SetCoupons\bin\Debug\SetCoupons.exe.config
+C:\Książka\Przykłady\r04\SetCoupons\bin\Debug\SetCoupons.exe
+C:\Książka\Przykłady\r04\SetCoupons\bin\Debug\SetCoupons.pdb
+C:\Książka\Przykłady\r04\SetCoupons\obj\Debug\SetCoupons.csproj.CoreCompileInputs.cache
+C:\Książka\Przykłady\r04\SetCoupons\obj\Debug\SetCoupons.exe
+C:\Książka\Przykłady\r04\SetCoupons\obj\Debug\SetCoupons.pdb

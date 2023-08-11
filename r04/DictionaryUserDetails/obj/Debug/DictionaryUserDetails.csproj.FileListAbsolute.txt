@@ -1,0 +1,7 @@
+C:\Książka\Przykłady\r04\DictionaryUserDetails\bin\Debug\DictionaryUserDetails.exe.config
+C:\Książka\Przykłady\r04\DictionaryUserDetails\bin\Debug\DictionaryUserDetails.exe
+C:\Książka\Przykłady\r04\DictionaryUserDetails\bin\Debug\DictionaryUserDetails.pdb
+C:\Książka\Przykłady\r04\DictionaryUserDetails\obj\Debug\DictionaryUserDetails.csproj.CoreCompileInputs.cache
+C:\Książka\Przykłady\r04\DictionaryUserDetails\obj\Debug\DictionaryUserDetails.exe
+C:\Książka\Przykłady\r04\DictionaryUserDetails\obj\Debug\DictionaryUserDetails.pdb
+C:\Książka\Przykłady\r04\DictionaryUserDetails\obj\Debug\DictionaryUserDetails.csprojAssemblyReference.cache
